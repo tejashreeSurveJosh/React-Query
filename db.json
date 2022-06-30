@@ -1,0 +1,135 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman 45",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "Wonder girl 45",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "jhone",
+      "alterEgo": "data fetch",
+      "id": 5
+    },
+    {
+      "name": "spider man",
+      "alterEgo": "spider",
+      "id": 6
+    },
+    {
+      "name": "son pari",
+      "alterEgo": "chadi",
+      "id": 7
+    },
+    {
+      "name": "shakti man",
+      "alterEgo": "boom",
+      "id": 8
+    },
+    {
+      "name": "popla",
+      "alterEgo": "how to train",
+      "id": 9
+    },
+    {
+      "name": "don",
+      "alterEgo": "finding",
+      "id": 10
+    },
+    {
+      "name": "iron man",
+      "alterEgo": "steel",
+      "id": 11
+    },
+    {
+      "name": "iron man 2",
+      "alterEgo": "inron man 2",
+      "id": 12
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Jhon"
+    },
+    {
+      "id": "2",
+      "name": "Lisa"
+    },
+    {
+      "id": "3",
+      "name": "JK"
+    }
+  ],
+  "user": [
+    {
+      "id": "tejashree.Surve@joshsoftware.com",
+      "channelId": "artist teju's world"
+    }
+  ],
+  "channels": [
+    {
+      "id": "artist teju's world",
+      "courses": [
+        "how to draw",
+        "how to sketch"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "orange"
+    },
+    {
+      "id": 3,
+      "name": "yellow"
+    },
+    {
+      "id": 4,
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "name": "blue"
+    },
+    {
+      "id": 6,
+      "name": "black"
+    },
+    {
+      "id": 7,
+      "name": "dark pink"
+    },
+    {
+      "id": 8,
+      "name": "dark blue"
+    },
+    {
+      "id": 9,
+      "name": "lemon yello"
+    },
+    {
+      "id": 10,
+      "name": "purple"
+    }
+  ]
+}
